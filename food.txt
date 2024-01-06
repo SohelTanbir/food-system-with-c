@@ -1,0 +1,8 @@
+Mango                    Fruit               20        
+Banana                   Fruit               25        
+aluVaji                  Fry                 50        
+Chicken                  Fry                 100       
+FishCurry                Curry               120       
+FishFillet               Fry                 250       
+Doi                      Desart              40        
+Lacchi                   Desart              100       
